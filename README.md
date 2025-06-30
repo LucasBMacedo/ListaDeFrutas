@@ -51,4 +51,3 @@
 
 👨‍💻 autor:
   nome: Lucas Bezerra de Macedo
-  assinatura: Criado por Lucas Bezerra de Macedo
